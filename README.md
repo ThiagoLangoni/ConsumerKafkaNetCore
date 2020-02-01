@@ -11,12 +11,12 @@ Necessario a configuração do kafka com nome de tópico bolsafamilia2
 
 ### Resultado da execução com arquivo contendo 10000 registros
 
-|===============================================================|
-|     UF      |     QUATIDADE TOTAL     |    VALOR PARCELA      |
-|     AL      |     5                   |        R$ 445,00      |
-|     BA      |     159                 |        R$ 20.219,00   |
-|     CE      |     128                 |        R$ 13.770,00   |
-|     MA      |     64                  |        R$ 11.313,00   |
+|===============================================================|\r\n
+|     UF      |     QUATIDADE TOTAL     |    VALOR PARCELA      |\r\n
+|     AL      |     5                   |        R$ 445,00      |\r\n
+|     BA      |     159                 |        R$ 20.219,00   |\r\n
+|     CE      |     128                 |        R$ 13.770,00   |\r\n
+|     MA      |     64                  |        R$ 11.313,00   |\r\n
 |     MG      |     74                  |        R$ 10.727,00   |
 |     PA      |     40                  |        R$ 7.584,00    |
 |     PB      |     54                  |        R$ 6.979,00    |
