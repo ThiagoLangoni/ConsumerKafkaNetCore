@@ -24,7 +24,7 @@ namespace ConsumerKafka
 
             using (var c = new ConsumerBuilder<Ignore, string>(conf).Build())
             {
-                c.Subscribe("bolsa-familia");
+                c.Subscribe("bolsafamilia2");
 
                 CancellationTokenSource cts = new CancellationTokenSource();
                 Console.CancelKeyPress += (_, e) =>
